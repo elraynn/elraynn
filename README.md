@@ -28,4 +28,3 @@ Web Developer based in North Jakarta, Indonesia, building internal business syst
 
 ![Followers](https://img.shields.io/github/followers/elraynn?style=social)
 ![Stars](https://img.shields.io/github/stars/elraynn?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/elraynn/migent-work-history?label=last%20activity)
