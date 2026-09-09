@@ -2,7 +2,7 @@
 
 Web Developer based in North Jakarta, Indonesia, building internal business systems (inventory, payroll, ordering, and reporting apps) with PHP.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -13,7 +13,7 @@ Web Developer based in North Jakarta, Indonesia, building internal business syst
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-## 🧰 Tools
+## Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
@@ -22,6 +22,6 @@ Web Developer based in North Jakarta, Indonesia, building internal business syst
 ![Laragon](https://img.shields.io/badge/Laragon-1565C0?style=for-the-badge&logo=laragon&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Streak](https://streak-stats.demolab.com/?user=elraynn&hide_border=true)
