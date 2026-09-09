@@ -24,8 +24,4 @@ Web Developer based in North Jakarta, Indonesia, building internal business syst
 
 ## 📊 GitHub Stats
 
-![Rayhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=elraynn&show_icons=true&theme=default&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elraynn&layout=compact&hide_border=true)
-
 ![Streak](https://streak-stats.demolab.com/?user=elraynn&hide_border=true)
