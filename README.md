@@ -1,4 +1,4 @@
-# Hi there, I'm Rayhan 👋
+# Hi there, I'm Rayhan
 
 Web Developer based in North Jakarta, Indonesia, building internal business systems (inventory, payroll, ordering, and reporting apps) with PHP.
 
