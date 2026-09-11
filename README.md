@@ -21,10 +21,3 @@ Web Developer based in North Jakarta, Indonesia, building internal business syst
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Laragon](https://img.shields.io/badge/Laragon-1565C0?style=for-the-badge&logo=laragon&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## GitHub Stats
-
-![Streak](https://streak-stats.demolab.com/?user=elraynn&hide_border=true)
-
-![Followers](https://img.shields.io/github/followers/elraynn?style=social)
-![Stars](https://img.shields.io/github/stars/elraynn?style=social)
