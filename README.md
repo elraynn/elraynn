@@ -15,6 +15,7 @@ Web Developer based in North Jakarta, Indonesia, building internal business syst
 ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logoColor=white)
 
 ## Tools
 
